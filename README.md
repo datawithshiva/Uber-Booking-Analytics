@@ -49,3 +49,5 @@ Reduce cancellation rates by analyzing patterns in customer and driver behavior.
 Improve service quality based on rating trends.
 
 Use revenue analysis to focus on profitable vehicle types or routes.
+
+⭐ If you like this project, don’t forget to star the repo!
